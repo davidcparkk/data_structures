@@ -73,8 +73,10 @@ let testMatrix = [
 
 console.log('before');
 printMatrix(testMatrix);
+// console.log(checkZeros(testMatrix1));
 
 zeroMatrix(testMatrix);
 
 console.log('after');
 printMatrix(testMatrix);
+
