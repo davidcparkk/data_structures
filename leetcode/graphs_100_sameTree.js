@@ -19,3 +19,9 @@ function isSameTree(p,q) {
     checkSameNode(p,q);
     return sameTree;
 }
+
+//
+
+TIME:  O(P+Q) where p and q are number of nodes in input trees
+SPACE: O(1)
+UNLESS INTERVIEWER SAYS RECURIVE CALLS COUNT AS SPACE COMPLEXITY? O(P+Q)

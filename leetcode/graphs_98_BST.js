@@ -19,3 +19,8 @@ function isValidBST(root){
   helper(root, null, null);
   return validity;
 }
+
+//
+TIME: O(N) we traverse through every Node
+SPACE: o(1)
+UNLESS interviewer says each recursive call counts as space complexity => O(N)
