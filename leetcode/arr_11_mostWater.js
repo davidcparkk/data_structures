@@ -18,3 +18,8 @@ function maxArea(height){
 
 
 }
+
+
+// USING POINTERS
+TIME: o(n)
+SPACE: o (1)

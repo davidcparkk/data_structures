@@ -16,5 +16,5 @@ function lengthOfLIS(nums) {
   return currMax;
 }
 
-// Time n^2
+// Time n^2, we do up to N work, for all N elements
 // O(N) we store answer up to N problems, using DP array

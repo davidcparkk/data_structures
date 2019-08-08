@@ -11,3 +11,6 @@ function robs(nums) {
 
   return maxLootatN.pop();
 }
+
+T: N , loop through array once
+S: N , maxLootAtN construction iterates through array once

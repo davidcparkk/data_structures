@@ -18,3 +18,7 @@ function reverseList(head){
 
   return prev;
 }
+
+
+TIME: O(N)
+SPACE: O(1)
