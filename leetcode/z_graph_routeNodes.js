@@ -2,7 +2,6 @@
 // Given a directed graph and two nodes (S and E) design an algo to find out whether there is a route from S to S
 
 // Author solution
-// Using DFS
 function routeBetweenNodes(graph, start, end){
   let queue = [];
   let visited = {};
